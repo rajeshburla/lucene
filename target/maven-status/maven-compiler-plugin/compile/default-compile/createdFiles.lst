@@ -1,0 +1,10 @@
+com\tcd\ie\sparckcher\constants\Constants.class
+com\tcd\ie\sparckcher\ProcessFiles\ProcessTopicFile.class
+com\tcd\ie\sparckcher\results\Results.class
+com\tcd\ie\sparckcher\customAnalyzer\CustomAnalyzer.class
+com\tcd\ie\sparckcher\ProcessFiles\ProcessNewsFiles.class
+com\tcd\ie\sparckcher\Search\SearchGenerator.class
+com\tcd\ie\sparckcher\Index\IndexGenerator.class
+com\tcd\ie\sparckcher\Pojo\ContentVO.class
+com\tcd\ie\sparckcher\application\ExecuteApplication.class
+com\tcd\ie\sparckcher\Pojo\TopicVO.class
